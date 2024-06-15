@@ -6,7 +6,11 @@
       "shortDescription": "Bolígrafos de escritura suave",
       "description": "Con su diseño clásico y elegante, los bolígrafos BIC ofrecen una experiencia de escritura suave y sin esfuerzo en cada trazo. La punta de bola de alta calidad garantiza líneas nítidas y precisas en cada palabra, mientras que el cuerpo ergonómico proporciona un agarre cómodo durante horas de escritura.",
       "price": "1.20",
-      "categories": ["escritura y oficina", "punta redonda", "escolares"],
+      "categories": [
+        "escritura y oficina",
+        "punta redonda",
+        "escolares"
+      ],
       "stock": {
         "colors": {
           "green": 2,
@@ -27,7 +31,11 @@
       "shortDescription": "Rotuladores de doble punta",
       "description": "Los rotuladores Carioca Birello cuentan con doble punta, una fina y otra gruesa, ideales para una variedad de aplicaciones artísticas y de escritura. Con colores vibrantes y una calidad duradera, son una excelente opción para artistas y estudiantes por igual.",
       "price": "12.99",
-      "categories": ["dibujo y arte", "punta doble", "escolares"],
+      "categories": [
+        "dibujo y arte",
+        "punta doble",
+        "escolares"
+      ],
       "stock": {
         "colors": {
           "multicolor": 15
@@ -45,7 +53,11 @@
       "shortDescription": "Rotulador de punta pincel",
       "description": "El Pen Brush 68 de Stabilo es ideal para ilustradores y artistas que buscan un rotulador de alta calidad con una punta de pincel flexible. Permite trazos variados y un control preciso, siendo perfecto para técnicas de lettering y dibujo detallado.",
       "price": "1.75",
-      "categories": ["dibujo y arte", "punta pincel", "escolares"],
+      "categories": [
+        "dibujo y arte",
+        "punta pincel",
+        "escolares"
+      ],
       "stock": {
         "colors": {
           "black": 20,
@@ -66,7 +78,10 @@
       "shortDescription": "Marcadores fluorescentes de alta visibilidad",
       "description": "Los Marcadores Fluorescentes Stabilo son perfectos para resaltar texto y crear efectos llamativos en cualquier superficie. Con colores brillantes y una tinta de alta duración, estos marcadores son ideales para estudiantes, profesionales y artistas.",
       "price": "1.25",
-      "categories": ["punta gruesa", "escolares"],
+      "categories": [
+        "punta gruesa",
+        "escolares"
+      ],
       "stock": {
         "colors": {
           "yellow": 30,
@@ -87,7 +102,10 @@
       "shortDescription": "Rotulador de punta fina",
       "description": "El Pen Brush 88 de Stabilo es un rotulador de punta fina que ofrece una precisión excelente para dibujo técnico y escritura detallada. Con una amplia gama de colores vibrantes, es una herramienta imprescindible para estudiantes y profesionales.",
       "price": "1.50",
-      "categories": ["arte y diseño", "punta fina"],
+      "categories": [
+        "arte y diseño",
+        "punta fina"
+      ],
       "stock": {
         "colors": {
           "black": 25,
@@ -109,7 +127,11 @@
       "shortDescription": "Rotuladores permanentes de alta calidad",
       "description": "Los rotuladores Staedtler Lumocolor son una referencia en cuanto a marcadores permanentes se refiere. Con su tinta resistente al agua y a la decoloración, proporcionan resultados duraderos en una variedad de superficies. Perfectos para uso profesional y escolar.",
       "price": "2.00",
-      "categories": ["arte y diseño", "punta fina", "profesional"],
+      "categories": [
+        "arte y diseño",
+        "punta fina",
+        "profesional"
+      ],
       "stock": {
         "colors": {
           "green": 30,
@@ -130,7 +152,11 @@
       "shortDescription": "Rotuladores de punta fina",
       "description": "Los pigment-liner de Staedtler son ideales para ilustraciones detalladas, dibujos técnicos y escritura precisa. Con su punta de fibra fina, ofrecen líneas limpias y definidas, mientras que su tinta pigmentada es resistente al agua y al desvanecimiento.",
       "price": "1.75",
-      "categories": ["profesional", "arte y diseño", "punta fina"],
+      "categories": [
+        "profesional",
+        "arte y diseño",
+        "punta fina"
+      ],
       "stock": {
         "colors": {
           "black": 20
@@ -148,7 +174,11 @@
       "shortDescription": "Bolígrafo de punta fina",
       "description": "El bolígrafo Pilot Pen Punta Fina ofrece una escritura suave y precisa para todas tus necesidades diarias. Con una punta fina de acero inoxidable, garantiza líneas nítidas y limpias en cada trazo. Perfecto para tomar notas, escribir cartas o cualquier tarea de escritura.",
       "price": "1.50",
-      "categories": ["escritura y oficina", "punta fina", "profesional"],
+      "categories": [
+        "escritura y oficina",
+        "punta fina",
+        "profesional"
+      ],
       "stock": {
         "colors": {
           "black": 20,
@@ -168,7 +198,11 @@
       "shortDescription": "Rotulador para pizarras blancas",
       "description": "El rotulador de pizarra blanca Board Master de Pilot es perfecto para presentaciones, enseñanza y organización. Con su punta resistente y su tinta de secado rápido, proporciona líneas claras y vivas en cualquier superficie de pizarra blanca. Disponible en una variedad de colores.",
       "price": "1.20",
-      "categories": ["arte y diseño", "escolares", "punta gruesa"],
+      "categories": [
+        "arte y diseño",
+        "escolares",
+        "punta gruesa"
+      ],
       "stock": {
         "colors": {
           "black": 25,
@@ -189,7 +223,11 @@
       "shortDescription": "Rotulador de doble punta",
       "description": "El rotulador Prismacolor Doble Punta es una herramienta versátil para artistas y diseñadores. Con una punta fina y otra de pincel, permite una amplia gama de trazos y efectos. Los colores vibrantes y la calidad duradera hacen que sea una elección popular entre los profesionales creativos.",
       "price": "2.50",
-      "categories": ["arte y diseño", "punta doble", "profesional"],
+      "categories": [
+        "arte y diseño",
+        "punta doble",
+        "profesional"
+      ],
       "stock": {
         "colors": {
           "black": 10,
@@ -210,7 +248,11 @@
       "shortDescription": "Rotulador pincel Ecoline",
       "description": "El Ecoline Brush Pen es perfecto para artistas que buscan una herramienta versátil y de alta calidad para sus proyectos de arte. Con su punta de pincel flexible y tinta altamente pigmentada, ofrece una experiencia de color suave y vibrante en una variedad de superficies.",
       "price": "2.75",
-      "categories": ["arte y diseño", "punta pincel", "profesional"],
+      "categories": [
+        "arte y diseño",
+        "punta pincel",
+        "profesional"
+      ],
       "stock": {
         "colors": {
           "black": 15,
@@ -231,7 +273,11 @@
       "shortDescription": "Tiza líquida de gran tamaño",
       "description": "La Jumbo Tiza Líquida es perfecta para proyectos creativos en pizarras, ventanas y otras superficies no porosas. Su formato jumbo garantiza una gran durabilidad y cobertura, mientras que su tinta de secado rápido permite una limpieza fácil con un paño húmedo.",
       "price": "3.00",
-      "categories": ["arte y diseño", "punta gruesa", "escolares"],
+      "categories": [
+        "arte y diseño",
+        "punta gruesa",
+        "escolares"
+      ],
       "stock": {
         "colors": {
           "white": 20,
@@ -252,7 +298,11 @@
       "shortDescription": "Marcador permanente de alta calidad",
       "description": "El Marcador Permanente Edding 500 es una herramienta imprescindible para escribir y marcar en una variedad de superficies. Con su tinta resistente al agua y a la decoloración, proporciona resultados duraderos en papel, cartón, plástico, metal y más.",
       "price": "2.20",
-      "categories": ["escritura y oficina", "punta gruesa", "profesional"],
+      "categories": [
+        "escritura y oficina",
+        "punta gruesa",
+        "profesional"
+      ],
       "stock": {
         "colors": {
           "black": 30,
@@ -272,7 +322,11 @@
       "shortDescription": "Rotulador de punta gruesa",
       "description": "El UNI Posca 5mm es un rotulador versátil con una punta gruesa que permite una variedad de técnicas de marcado y pintura. Su tinta de alta pigmentación es resistente al agua y se adhiere a una variedad de superficies, incluyendo papel, madera, vidrio y metal.",
       "price": "2.20",
-      "categories": ["arte y diseño", "punta gruesa", "profesional"],
+      "categories": [
+        "arte y diseño",
+        "punta gruesa",
+        "profesional"
+      ],
       "stock": {
         "colors": {
           "black": 25,
@@ -292,7 +346,11 @@
       "shortDescription": "Rotuladores de doble punta",
       "description": "Los rotuladores Alpino Doble Punta son perfectos para artistas y estudiantes que buscan versatilidad en sus herramientas de dibujo y coloración. Con una punta fina en un extremo y una punta cincelada en el otro, ofrecen una amplia gama de opciones para crear y expresarse.",
       "price": "1.30",
-      "categories": ["arte y diseño", "punta doble", "escolares"],
+      "categories": [
+        "arte y diseño",
+        "punta doble",
+        "escolares"
+      ],
       "stock": {
         "colors": {
           "multicolor": 20
@@ -310,7 +368,11 @@
       "shortDescription": "Marcador permanente de alta calidad",
       "description": "El marcador permanente negro de Faber-Castell es una herramienta esencial para escribir y marcar en una variedad de superficies. Con su tinta resistente al agua y a la decoloración, proporciona resultados duraderos y de alta calidad en papel, cartón, plástico y más.",
       "price": "1.80",
-      "categories": ["escritura y oficina", "punta fina", "profesional"],
+      "categories": [
+        "escritura y oficina",
+        "punta fina",
+        "profesional"
+      ],
       "stock": {
         "colors": {
           "black": 30
@@ -328,7 +390,11 @@
       "shortDescription": "Rotuladores para diseño sobre piel",
       "description": "Los rotuladores Sharpie para piel son ideales para artistas y entusiastas del diseño que desean crear arte temporal directamente en la piel. Con su tinta resistente al agua y de secado rápido, ofrecen colores vivos y duraderos en una variedad de tonos y grosores de línea.",
       "price": "2.50",
-      "categories": ["arte y diseño", "punta normal", "escolares"],
+      "categories": [
+        "arte y diseño",
+        "punta normal",
+        "escolares"
+      ],
       "stock": {
         "colors": {
           "black": 20,
@@ -348,7 +414,11 @@
       "shortDescription": "Rotulador de punta fina",
       "description": "El rotulador Sakura Micron con punta fina es una herramienta esencial para artistas y dibujantes que requieren precisión en sus trazos. Con su tinta resistente al agua y a la decoloración, garantiza líneas limpias y definidas en una variedad de superficies.",
       "price": "2.00",
-      "categories": ["arte y diseño", "punta fina", "profesional"],
+      "categories": [
+        "arte y diseño",
+        "punta fina",
+        "profesional"
+      ],
       "stock": {
         "colors": {
           "black": 25,
@@ -368,7 +438,11 @@
       "shortDescription": "Rotulador de doble punta",
       "description": "El rotulador Promarker de Winston & Newton cuenta con una punta fina y una punta biselada, ofreciendo versatilidad para una amplia gama de técnicas de dibujo y coloración. Con colores vibrantes y una tinta de alta calidad, es ideal para ilustradores y artistas.",
       "price": "2.75",
-      "categories": ["arte y diseño", "punta doble", "profesional"],
+      "categories": [
+        "arte y diseño",
+        "punta doble",
+        "profesional"
+      ],
       "stock": {
         "colors": {
           "black": 20,
@@ -382,5 +456,6 @@
       },
       "brand": "Winston and Newton"
     }
-  ]
+  ],
+  "shopping-cart": []
 }
